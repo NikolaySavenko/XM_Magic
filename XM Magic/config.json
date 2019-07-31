@@ -1,0 +1,11 @@
+{
+    enabled:true,
+    "star_ore":{
+        "enabled":true,
+        "count":15,
+        "size":10,
+        "minHeight":0,
+        "maxHeight":250
+    },
+    "highQualityParticles":true
+}
