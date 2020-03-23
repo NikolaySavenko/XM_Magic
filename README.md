@@ -1,3 +1,2 @@
 # XM_Magic
- Inner Core
-Legacy bullshit
+Legacy bullshit for Inner Core
